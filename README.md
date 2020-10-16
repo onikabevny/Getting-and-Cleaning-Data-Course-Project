@@ -1,4 +1,4 @@
-#Peer-graded Assignment: Getting and Cleaning Data Course Project
+Peer-graded Assignment: Getting and Cleaning Data Course Project
 
 This repository is a submission by Onika Bevny for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
 
@@ -6,12 +6,11 @@ Dataset:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-File:
+Files:
 
-CodeBook.md, a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data.
+* CodeBook.md, a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data.
 
-
-run_analysis.R performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
+* run_analysis.R performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
 
 1. Merges the training and the test sets to create one data set.
 
